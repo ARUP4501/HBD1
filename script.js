@@ -16,11 +16,12 @@ const questions = [
         question: "One word you'd use to describe me 😏",
         type: "multiple-choice",
         options: [
+            "Abhadra 🫣",
             "Chasmiss 🥸",
             "Motu 🍕",
             "Gadha 🤡",
             "Gunda 🥷",
-            "Chamak 🤣"
+            "Chamak 🤣",
         ]
     },
     {
@@ -659,8 +660,8 @@ function initializeQuestions() {
                                 message: "Look who's talking! 😜",
                                 color: "#9370DB"
                             },
-                            'Selfie-Expert 🤳': {
-                                message: "Always camera ready! 📸✨",
+                            'Abhadra 🫣': {
+                                message: "Love to Irritate ! 😁✨",
                                 color: "#4CAF50"
                             },
                             'Gunda 🥷': {
